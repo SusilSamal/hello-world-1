@@ -8,3 +8,4 @@
 <h2> Valaxy is good institiute for Devops path finder <h2>
 <h2> Hello ,Welcome to all </h2>
 <h1> Finally we can deploy war file via ansible </h1>
+<h1> Devops culture is gonna next future of information technology </h1>
